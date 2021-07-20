@@ -1,3 +1,1 @@
 # bateria-em-javascript
-
-terste
